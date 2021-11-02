@@ -122,7 +122,7 @@ function App() {
               </figure>
               <div className='d-flex' style={{ padding:'0', margin:'auto'}}>
                 <ModalInfo id={6} />
-                <a href='' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
+                <a href=' ' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
               </div>
             </Card>
 
