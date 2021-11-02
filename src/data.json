@@ -1,0 +1,101 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Burger Queen Api Client",
+    "detalle": "Burger Queen Api Client es un sistema de pedidos de una hamburguesería. Los usuarios son los colaboradores del restaurante como el administrador, chef y meserxs.",
+    "tecnologias": [
+      "React", "Api - Rest Server", "Bootstrap", "React-Bootstrap", "Javascript", "Html5", "CSS3", "Ecmascript 6", "Mobile First"
+    ],
+    "Accesos": [
+      "Email de admin: admin1@bq.com, password:admin001 ", "Email de chef: chef@bq.com, password:chef001", "Email de meserx: server@bq.com, password:server001"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "title": "Travelers",
+    "detalle": "Travelers es una red social responsiva para viajeros. Los usuarios pueden crear sus propias cuentas para acceder, subir fotos, postear, comentar e interacturar con otros usuarios registrados",
+    "tecnologias": [
+      "Firebase", "Javascript", "Html5", "CSS3", "Ecmascript 6", "Mobile First"
+    ],
+    "Accesos": [
+      "Cada usuario"
+    ]
+  },
+  "3": {
+    "id": 3,
+    "title": "Squad Up",
+    "detalle": "Squad Up es un sitio web para usuarios que quieren empezar y perfeccionar sus técnicas en el juego de League of Legends.",
+    "tecnologias": [
+      "Javascript", "Html5", "CSS3", "Ecmascript 6", "Mobile First", "JSON"
+    ],
+    "Accesos": [
+      "Libre"
+    ]
+  },
+  "4": {
+    "id": 4,
+    "title": "Criptosistemas",
+    "detalle": "Criptosistemas es un proyecto que ayuda a sus usuarios a codificar y decodificar contraseñas",
+    "tecnologias": [
+      "Javascript", "Html5", "CSS3", "Ecmascript 6"
+    ],
+    "Accesos": [
+      "Libre"
+    ]
+  },
+  "5": {
+    "id": 5,
+    "title": "Burger Queen",
+    "detalle": "Burger Queen es un sistema de pedidos de una hamburguesería. Los usuarios son los colaboradores del restaurante como el administrador, chef y meserxs.",
+    "tecnologias": [
+      "React", "Firebase", "SASS", "Javascript", "Html5", "CSS3", "Ecmascript 6", "Mobile First"
+    ],
+    "Accesos": [
+      "Libre"
+    ]
+  },
+  "6": {
+    "id": 6,
+    "title": "Chat App",
+    "detalle": "Chat App es una aplicación en donde los usuarios pueden chatear en realtime con otros miembros usuarios.",
+    "tecnologias": [
+      "Angular", "Express", "Postgres", "Node", "Socket Io", "Prisma", "Javascript", "Html5", "CSS3", "Ecmascript 6", "Mobile First"
+    ],
+    "Accesos": [
+      "Cada usuario"
+    ]
+  },
+  "7": {
+    "id": 7,
+    "title": "Burger Queen Api",
+    "detalle": "Burger Queen Api es un proyecto de API desarrollado bajo REST Server.",
+    "tecnologias": [
+      "Mongo db", "Express", "Node", "Mongoose", "Javascript", "Ecmascript 6"
+    ],
+    "Accesos": [
+      "Free"
+    ]
+  },
+  "8": {
+    "id": 8,
+    "title": "Md-Links",
+    "detalle": "Md-Links es una librería open source de javascript que ayuda a otros developers identificar links vigentes dentro de archivos markdown.",
+    "tecnologias": [
+      "Node", "Javascript", "Ecmascript 6"
+    ],
+    "Accesos": [
+      "Free"
+    ]
+  },
+  "9": {
+    "id": 9,
+    "title": "Plugin Donation",
+    "detalle": "Plugin Donation, es un plugin para wordpress que canaliza envíos de dinero como donaciones a diversas organizaciones sin fines de lucro.",
+    "tecnologias": [
+      "Wordpress", "PHP", "Javascript", "MySql"
+    ],
+    "Accesos": [
+      "Free"
+    ]
+  }
+}
