@@ -122,7 +122,7 @@ function App() {
               </figure>
               <div className='d-flex' style={{ padding:'0', margin:'auto'}}>
                 <ModalInfo id={6} />
-                <a href=' ' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
+                <a href='https://github.com/meryvera/chat-app-fe' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
               </div>
             </Card>
 
@@ -132,7 +132,7 @@ function App() {
               </figure>
               <div className='d-flex' style={{ padding:'0', margin:'auto'}}>
                 <ModalInfo id={7} />
-                <a href='' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
+                <a href='http://reg003-bq-api.herokuapp.com/' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
               </div>
             </Card>
 
@@ -142,7 +142,7 @@ function App() {
               </figure>
               <div className='d-flex' style={{ padding:'0', margin:'auto'}}>
                 <ModalInfo id={8} />
-                <a href='' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
+                <a href='https://github.com/meryvera/LIM014-mdlinks' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
               </div>
             </Card>
 
@@ -152,7 +152,7 @@ function App() {
               </figure>
               <div className='d-flex' style={{ padding:'0', margin:'auto'}}>
                 <ModalInfo id={9} />
-                <a href='' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
+                <a href='https://github.com/meryvera/REG003-wordpress-plugin' target='_blank' type="button" className="btn" style={{height:'32px', fontFamily:'calibri', fontWeight:'bold', background:'rgb(29 122 121)', color:'white'}} rel="noreferrer">Link</a>
               </div>
             </Card>
 
