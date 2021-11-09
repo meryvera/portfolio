@@ -30,15 +30,16 @@ function App() {
           <Nav className="justify-content-end">
             <b><Nav.Link href="#sobre-mi" style={{fontFamily:'Open Sans', color:'#fbfcfd'}}>Sobre mi</Nav.Link></b>
             <b><Nav.Link href="#portafolio" style={{fontFamily:'Open Sans', color:'#fbfcfd'}}>Portafolio</Nav.Link></b>
-            <b><Nav.Link href="#experiencia" style={{fontFamily:'Open Sans', color:'#fbfcfd'}}>Experiencia</Nav.Link></b>
-            <b><Nav.Link href="#educacion" style={{fontFamily:'Open Sans', color:'#fbfcfd'}}>Educación</Nav.Link></b>
+            {/* <b><Nav.Link href="#experiencia" style={{fontFamily:'Open Sans', color:'#fbfcfd'}}>Experiencia</Nav.Link></b>
+            <b><Nav.Link href="#educacion" style={{fontFamily:'Open Sans', color:'#fbfcfd'}}>Educación</Nav.Link></b> */}
           </Nav>
         </Container>
       </Navbar>
       <article className="content">
         <small>Welcome to my site</small>
         <h1 style={{fontSize:'5.5rem', fontFamily:'Sansita'}}>Mery Vera</h1>
-        <button>Contact me</button>
+        <button>Email: meryveramendoza@gmail.com</button><br /><br />
+        <button>Cel: +51960482053</button>
       </article>
 
       <article className='bubbles'>
@@ -158,7 +159,7 @@ function App() {
 
           </div>
         </section>
-        <section id='experiencia' className='px-5 py-5'>
+        {/* <section id='experiencia' className='px-5 py-5'>
           <h2 className='subtitle mb-4'>Experiencia</h2>
           <p>
             FRONT END DEVELOPER JR. 
@@ -215,7 +216,7 @@ function App() {
             UNMSM
             2016 Lima, Perú 
           </p>
-        </section>
+        </section> */}
       </article>
     </div>
   );
